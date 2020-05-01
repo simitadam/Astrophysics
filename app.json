@@ -138,8 +138,8 @@
       "description": "Your client_secret.json.",
       "required": false
     },
-    "G_DRIVE_AUTH_TOKEN_DATA": {
-      "description": "Enter the Google Drive authentication data, as a JSON structure.",
+    "GENIUS_ACCESS_TOKEN": {
+      "description": "Client Access Token from https://genius.com/api-clients.",
       "required": false
     },
     "WEATHER_DEFCITY": {
